@@ -1,0 +1,30 @@
+{
+  "name": "node-mollom",
+  "version": "0.0.1",
+  "description": "Mollom Rest API Client for node.js",
+  "tags": ["mollom"],
+  "keywords": ["mollom", "rest api"],
+  "author": "Laurent Chardin <laurent@chardin.org>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laurentchardin/node-mollom.git"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "bugs": {
+    "url": "https://github.com/laurentchardin/node-mollom/issues"
+  },
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/laurentchardin/node-mollom/blob/master/LICENSE"
+    }
+  ],
+  "dependencies" : {
+    "request" : "2.*",
+    "underscore": "1.5.*",
+    "async": "*"
+  },
+  "main": "./lib/mollom"
+}

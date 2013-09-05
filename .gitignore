@@ -1,2 +1,6 @@
+# tools
+.idea
+
+# project
 node_modules
-example/my.example.js
+example/*.js
