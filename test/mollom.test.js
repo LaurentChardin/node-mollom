@@ -126,8 +126,8 @@ mollomclient.createSite(newsite, function (res) {
 
  var url = 'http://dev.mollom.com/v1/content',
  oauth =
- { consumer_key: "ifnbhz6na17h12dyzohglcj6d83wokoq",
- consumer_secret: "1s6wrpgzl6ydvtdxqkn9yrz82eubktjp"
+ { consumer_key: "xxx",
+ consumer_secret: "xxx"
  },
  form = {
  postTitle: 'ham', // for testing: spam, ham and unsure
