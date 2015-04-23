@@ -2,9 +2,12 @@
   "name": "node-mollom",
   "version": "0.0.1",
   "description": "Mollom Rest API Client for node.js",
-  "tags": ["mollom"],
-  "keywords": ["mollom", "rest api"],
+  "keywords": ["mollom", "captcha", "antispam"],
   "author": "Laurent Chardin <laurent@chardin.org>",
+  "contributors" : [{
+      "name" : "Mathieu Dahne",
+      "email" : "mathieud@theodo.fr"
+  }],
   "repository": {
     "type": "git",
     "url": "https://github.com/laurentchardin/node-mollom.git"
