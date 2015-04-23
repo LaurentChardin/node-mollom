@@ -5,7 +5,6 @@
   "tags": ["mollom"],
   "keywords": ["mollom", "rest api"],
   "author": "Laurent Chardin <laurent@chardin.org>",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/laurentchardin/node-mollom.git"
