@@ -1,8 +1,6 @@
 node-mollom
 ===============
 
-[![Build Status](https://secure.travis-ci.org/sotarok/node-redmine.png)](http://travis-ci.org/sotarok/node-redmine)
-
 Mollom REST API Client for node.js
 
 Dependencies
