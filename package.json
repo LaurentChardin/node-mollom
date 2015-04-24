@@ -1,6 +1,6 @@
 {
   "name": "node-mollom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mollom Rest API Client for node.js",
   "keywords": [
     "mollom",
@@ -19,7 +19,7 @@
     "url": "https://github.com/laurentchardin/node-mollom.git"
   },
   "scripts": {
-    "test": ""
+    "test": "mocha --reporter list"
   },
   "bugs": {
     "url": "https://github.com/laurentchardin/node-mollom/issues"
@@ -31,9 +31,14 @@
     }
   ],
   "dependencies": {
-    "async": "*",
     "lodash": "^3.7.0",
     "request": "2.*"
   },
-  "main": "./lib/mollom"
+  "main": "./lib/mollom",
+  "devDependencies": {
+    "async": "^0.9.0",
+    "mocha": "^2.2.4",
+    "request-debug": "^0.1.1",
+    "should": "^6.0.1"
+  }
 }
