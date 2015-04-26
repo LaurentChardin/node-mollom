@@ -11,7 +11,7 @@ var newsite = {
 var mollomclient = new mollom({
     consumer_key: null,
     consumer_secret: null,
-    use_test: true, //use testing environment
+    use_test: true //use testing environment
     //debug: true
 });
 
