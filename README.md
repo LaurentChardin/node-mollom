@@ -1,7 +1,7 @@
 node-mollom
 ===============
 
-[![Build Status](https://secure.travis-ci.org/laurentchardin/node-mollom.svg?branch=master)](http://travis-ci.org/laurentchardin/node-mollom)
+[![Build Status](https://travis-ci.org/LaurentChardin/node-mollom.svg)](https://travis-ci.org/LaurentChardin/node-mollom)
 [![devDependency Status](https://david-dm.org/laurentchardin/node-mollom/status.svg)](https://david-dm.org/laurentchardin/node-mollom#info=dependencies)
 [![devDependency Status](https://david-dm.org/laurentchardin/node-mollom/dev-status.svg)](https://david-dm.org/laurentchardin/node-mollom#info=devDependencies)
 
